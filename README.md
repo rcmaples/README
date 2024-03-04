@@ -11,6 +11,7 @@ An abridged user manual for @rcmaples.
 <p align="center">
     <strong>To be useful and not die.</strong>
     <br >
+    <br >
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWs3NG9lOWRtMmtjYXVldDF0NG43d2IyY2JtaWhrMWoxaHpmdWdubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RHLcOWQ4xqyOKvqzAc/giphy-downsized.gif" width="300px">
     <br >
 </p>
