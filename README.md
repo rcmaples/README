@@ -62,3 +62,9 @@ Criticism without also providing guidance on how to improve or how to solve an i
 - I can get stuck focusing on trying to perfect every aspect of a project before starting it.
 
 <p align="center"><img width="300px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnAzZ2x6b2N1eGY3cXB6aG5sN2lva3FmaDlubTZvc2FlaG82cGphMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btTydOQD77qjgOY/giphy-downsized.gif"><br></p>
+
+## 🏆 In Closing
+
+I'm always down to chat about anything. If there's anything you want to bring up or talk about, just let me know!
+
+<p align="center"><br><br><img src="https://media.giphy.com/media/5UutH09eDi2Xnr9K7z/giphy-downsized.gif"></p>
